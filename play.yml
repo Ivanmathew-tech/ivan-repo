@@ -1,3 +1,7 @@
 - Installing apache webserver
 - creating index.html sample page.
 - restarting apache
+- creating httpd.conf from httpd.conf.tmpl
+- adding virtualhost
+- documentroot created
+- apache restart
