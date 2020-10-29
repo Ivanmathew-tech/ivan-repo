@@ -7,3 +7,5 @@
 - apache restart
 - installing php & modules
 - restating apache
+- installing mysql
+- restarting mysql
